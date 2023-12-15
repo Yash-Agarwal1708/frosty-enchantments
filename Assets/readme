@@ -1,0 +1,14 @@
+For PlayFab errors, first you have to connect to the playFab account as a developer to remove the errors. Actual player doesn't need to login anywhere. 
+
+Inorder to login go to window->playfab->editor extensions
+
+A playfab window will open up. Click on login and enter the following details.
+
+email: arunabh.gupta.min20itbhu.ac.in
+password: rishu789!
+
+this should solve all the errors.
+
+Go to start menu and start the game. There will be a popup to enter the username if the player has never registered before. Once registered that username will be displayed on the leaderboard if on the top. 
+
+then you can play the game. Once all the levels are completed the time will be recorded and sent to the leaderboard database. If lost in between then that particular level should restart previous points won't be affected.
